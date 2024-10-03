@@ -8,4 +8,4 @@ Leverage or customize this Looker model to:
 * Spot potential problems early on
 * Make better decisions faster
 
-For detailed information including content and installation instructions, checkout the dedicated Looker Block for Salesforce [documentation](https://cloud.google.com/cortex/docs/looker-block-salesforce).
+For detailed information including content and installation instructions, checkout the dedicated Looker Block for Salesforce Sales Cloud [documentation](https://cloud.google.com/cortex/docs/looker-block-salesforce).
